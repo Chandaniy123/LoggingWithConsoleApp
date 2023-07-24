@@ -1,0 +1,3 @@
+2023-07-24 12:56:15,145 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 12:56:15,158 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 12:56:15,158 \[1\] WARN userLogs.Program - Warn!

@@ -1,0 +1,51 @@
+2023-07-24 12:58:24,306 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 12:58:24,318 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 12:58:24,318 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 12:59:24,248 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 12:59:24,259 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 12:59:24,259 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:03:54,884 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 13:03:54,896 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 13:03:54,897 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:03:54,897 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 13:03:54,897 \[1\] FATAL userLogs.Program - none
+2023-07-24 13:07:07,643 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 13:07:07,655 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 13:07:07,655 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:07:07,655 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 13:07:07,655 \[1\] FATAL userLogs.Program - none
+2023-07-24 13:07:42,290 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 13:07:42,301 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 13:07:42,301 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:07:42,301 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 13:07:42,301 \[1\] FATAL userLogs.Program - none
+2023-07-24 13:07:56,237 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 13:07:56,250 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 13:07:56,250 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:07:56,250 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 13:07:56,250 \[1\] FATAL userLogs.Program - none
+2023-07-24 13:08:15,505 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 13:08:15,516 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 13:08:15,516 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:08:15,516 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 13:08:15,516 \[1\] FATAL userLogs.Program - none
+2023-07-24 13:08:26,948 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 13:08:26,959 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 13:08:26,960 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 13:08:26,960 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 13:08:26,960 \[1\] FATAL userLogs.Program - none
+2023-07-24 15:06:35,707 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 15:06:35,719 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 15:06:35,720 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 15:06:35,720 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 15:06:35,720 \[1\] FATAL userLogs.Program - none
+2023-07-24 15:25:14,355 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 15:25:14,368 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 15:25:14,368 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 15:25:14,368 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 15:25:14,368 \[1\] FATAL userLogs.Program - none
+2023-07-24 15:46:40,633 \[1\] INFO userLogs.Program - Hello logging world!
+2023-07-24 15:46:40,644 \[1\] ERROR userLogs.Program - Error!
+2023-07-24 15:46:40,645 \[1\] WARN userLogs.Program - Warn!
+2023-07-24 15:46:40,645 \[1\] DEBUG userLogs.Program - Completed
+2023-07-24 15:46:40,645 \[1\] FATAL userLogs.Program - none
